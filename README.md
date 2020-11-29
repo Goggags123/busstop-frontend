@@ -1,6 +1,6 @@
-# busstop
+# Busstop
 
-A new Flutter project.
+This is my first flutter project for learning about spatial data, and frontend development for mobile appilcation.
 
 ## Getting Started
 
